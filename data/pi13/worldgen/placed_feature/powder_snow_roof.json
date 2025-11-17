@@ -1,0 +1,8 @@
+{
+  "feature": "pi13:powder_snow_roof",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

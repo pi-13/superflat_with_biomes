@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "Absolutely Nothing but generated structures (with biomes!)",
+    "description": "Generates normal overworld with a powder snow roof",
     "min_format": 88,
     "max_format": 88
   }

@@ -6,6 +6,6 @@
       "type": "minecraft:multi_noise",
       "preset": "minecraft:overworld"
     },
-    "settings": "pi13:single_layer_powder_snow"
+    "settings": "pi13:nothing"
   }
 }
